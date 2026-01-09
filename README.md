@@ -83,19 +83,17 @@
 
 ---
 
-<h2 align="center">🗂️ Code Languages Used on GitHub</h2>
+<h2 align="center">📂 Code Languages Used on GitHub</h2>
 
 <p align="center">
   This reflects the languages used across my analytics and data engineering projects.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Aryanwnl" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-      alt="Top Languages"
-    />
-  </a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top languages used on GitHub"
+  />
 </p>
 
 ---
