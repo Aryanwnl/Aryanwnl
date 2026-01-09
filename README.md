@@ -80,15 +80,15 @@
 <h2 align="center">📂 Code Languages Used on GitHub</h2>
 
 <p align="center">
-  This reflects the languages used across my analytics and data engineering projects.
+GitHub automatically tracks language usage across my analytics and data engineering projects.
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    alt="Top languages used on GitHub"
-  />
+<a href="https://github.com/Aryanwnl?tab=repositories">
+View language breakdown on GitHub →
+</a>
 </p>
+
 
 ---
 
