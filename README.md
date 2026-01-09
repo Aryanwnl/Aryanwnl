@@ -11,10 +11,10 @@
 
 <p align="center">
   <strong>Early-Career Data Analytics & Data Engineering professional</strong> with a graduate focus in Information Systems.
-  I work on transforming raw, messy data into <em>analysis-ready datasets</em> and <em>reliable KPIs</em> using SQL, Python,
+  I work on transforming raw messy data into <em>analysis-ready datasets</em> and <em>reliable KPIs</em> using SQL, Python
   and cloud-aware data workflows.
   <br/><br/>
-  My work focuses on <strong>data pipelines, data quality, analytics enablement, and reporting foundations</strong> —
+  My work focuses on <strong>data pipelines, data quality, analytics enablement and reporting foundations</strong> —
   building systems that help teams analyze data consistently and make better decisions.
 </p>
 
@@ -22,7 +22,6 @@
 
 <h2 align="center">🧰 Core Skills</h2>
 
-<!-- Programming & Querying -->
 <p><strong>Programming & Querying</strong></p>
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
@@ -31,7 +30,6 @@
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
 </p>
 
-<!-- Data Engineering -->
 <p><strong>Data Engineering</strong></p>
 <p>
   <img src="https://img.shields.io/badge/ETL%20%2F%20ELT-111827?style=for-the-badge" />
@@ -40,30 +38,26 @@
   <img src="https://img.shields.io/badge/Data%20Quality%20%26%20Validation-0F766E?style=for-the-badge" />
 </p>
 
-<!-- Analytics -->
 <p><strong>Analytics</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Exploratory%20Data%20Analysis-4B5563?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Metrics%20%26%20KPIs-111827?style=for-the-badge" />
 </p>
 
-<!-- Cloud -->
-<p><strong>Cloud (Usage-Level Exposure)</strong></p>
+<p><strong>Cloud</strong></p>
 <p>
   <img src="https://img.shields.io/badge/AWS%20S3-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?logo=amazonaws&logoColor=black&style=for-the-badge" />
 </p>
 
-<!-- Visualization -->
 <p><strong>Visualization & BI</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge" />
 </p>
 
-<!-- Tooling -->
 <p><strong>Tooling</strong></p>
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -75,10 +69,10 @@
 <h2 align="center">📌 What You'll Find Here</h2>
 
 <ul>
-  <li>SQL-driven analysis projects with real-world datasets</li>
-  <li>Python notebooks focused on data cleaning, transformation, and validation</li>
+  <li>SQL-driven analytics projects using real-world datasets</li>
+  <li>Python pipelines for data cleaning transformation and validation</li>
   <li>End-to-end analytics workflows supporting KPIs and dashboards</li>
-  <li>Data pipeline logic designed for reuse and consistency</li>
+  <li>Reusable production-style data pipeline logic</li>
 </ul>
 
 ---
@@ -90,8 +84,8 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
     alt="Top languages used on GitHub"
   />
 </p>
@@ -101,5 +95,7 @@
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/aryan-dalvi" target="_blank">LinkedIn</a> •
+  <a href="https://github.com/Aryanwnl" target="_blank">GitHub</a>
 </p>
+>
