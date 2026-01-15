@@ -95,7 +95,7 @@ View language breakdown on GitHub →
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-dalvi" target="_blank">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aryan-ninad-dalvi-2682232ba" target="_blank">LinkedIn</a> •
   <a href="https://github.com/Aryanwnl" target="_blank">GitHub</a>
 </p>
 >
