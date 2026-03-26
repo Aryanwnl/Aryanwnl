@@ -77,16 +77,10 @@
 
 ---
 
-<!-- Top Languages Card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&theme=dark" alt="Top Languages" />
-
-
----
-
 <h2 align="center">📫 Connect</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-ninad-dalvi-2682232ba" target="_blank">LinkedIn</a> •
   <a href="https://github.com/Aryanwnl" target="_blank">GitHub</a>
 </p>
->
+
