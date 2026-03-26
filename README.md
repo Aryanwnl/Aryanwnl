@@ -77,17 +77,8 @@
 
 ---
 
-<h2 align="center">📂 Code Languages Used on GitHub</h2>
-
-<p align="center">
-GitHub automatically tracks language usage across my analytics and data engineering projects.
-</p>
-
-<p align="center">
-<a href="https://github.com/Aryanwnl?tab=repositories">
-View language breakdown on GitHub →
-</a>
-</p>
+<!-- Top Languages Card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryanwnl&layout=compact&theme=dark" alt="Top Languages" />
 
 
 ---
