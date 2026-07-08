@@ -192,10 +192,11 @@ Predictive analytics using classification, regression, ensemble learning, and mo
 
 # Philosophy
 
-> **Good analytics starts with good engineering.**
->
-> Clean data builds trusted metrics. Trusted metrics drive better decisions.
+<h2 align="center">⚡ Data Engineering Mindset</h2>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Collect+with+purpose.;Transform+with+precision.;Validate+with+confidence.;Empower+every+decision." />
+</p>
 ---
 
 <p align="center">
