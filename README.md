@@ -163,7 +163,7 @@ Rather than focusing on a single tool, I enjoy engineering complete analytics ec
 # ⚡ Engineering Manifesto
 
 <p align="center">
-  <img src="images/engineering-manifesto.jpeg" width="100%" alt="Engineering Manifesto"/>
+  <img src="./Image/Manifesto.jpg" width="100%" alt="Engineering Manifesto">
 </p>
 
 <p align="center">
