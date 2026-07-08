@@ -127,14 +127,6 @@ Rather than focusing on a single tool, I enjoy engineering complete analytics ec
 
 </p>
 
----
-
-# Featured Projects
-
-### SQL Business Performance Analytics
-
-Advanced SQL analytics using joins, CTEs, window functions, ranking functions, and KPI reporting.
-
 
 
 # Current Focus
