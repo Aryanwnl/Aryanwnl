@@ -1,8 +1,4 @@
-<h1 align="center">Aryan Dalvi</h1>
-
-<p align="center">
-Building scalable data solutions that transform raw information into trusted business insights.
-</p>
+<h1 align="center">Aryan Dalvi — Data Analytics & Data Engineering</h1> <p align="center"> <a href="https://github.com/Aryanwnl" target="_blank" rel="noopener noreferrer"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=900&lines=Building+reliable+data+pipelines+for+analytics+and+decision-making.;SQL+%7C+Python+%7C+ETL+%7C+Data+Pipelines+%7C+BI;Clean+data.+Trustworthy+metrics.+Repeatable+workflows." alt="Typing intro banner" /> </a> </p>
 
 <p align="center">
 
