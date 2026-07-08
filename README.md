@@ -160,10 +160,16 @@ Rather than focusing on a single tool, I enjoy engineering complete analytics ec
 
 # Philosophy
 
-<h2 align="center">⚡ Data Engineering Mindset</h2>
+# ⚡ Engineering Manifesto
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Collect+with+purpose.;Transform+with+precision.;Validate+with+confidence.;Empower+every+decision." />
+  <img src="images/engineering-manifesto.jpeg" width="100%" alt="Engineering Manifesto"/>
+</p>
+
+<p align="center">
+<i>
+Collect with Purpose • Transform with Precision • Validate with Confidence • Empower Every Decision
+</i>
 </p>
 ---
 
