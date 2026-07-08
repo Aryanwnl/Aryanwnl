@@ -135,31 +135,7 @@ Rather than focusing on a single tool, I enjoy engineering complete analytics ec
 
 Advanced SQL analytics using joins, CTEs, window functions, ranking functions, and KPI reporting.
 
----
 
-### Customer Sales Insights Dashboard
-
-Interactive Power BI dashboard analyzing customer behavior, sales trends, profitability, and executive KPIs.
-
----
-
-### Real Estate Sales Analytics
-
-End-to-end analytics pipeline integrating BigQuery, SQL, Power Query, DAX, and Power BI.
-
----
-
-### Retail Analytics (Zepto)
-
-Data cleaning, transformation, pricing analysis, inventory optimization, and business insights using SQL.
-
----
-
-### Machine Learning Projects
-
-Predictive analytics using classification, regression, ensemble learning, and model evaluation techniques.
-
----
 
 # Current Focus
 
